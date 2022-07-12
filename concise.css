@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+  --primary: #20262E;
+  --cloud: #f6f6f9;
+  --acloud: #dddddd;
+  --milk: #dce1eb;
+  --amilk: #d8d8d8;
+  --bmilk: #c5c5c5;
+  --grey: #8d8d8d;
+  --agrey: #828282;
+  --bgrey: #30373d;
+  --green: #00cc00;
+  --agreen: #00ee00;
+  --bgreen: #5cb85c;
+  --yell: #ffcc00;
+  --ayell: #ffbb55;
+  --byell: #f0ad4e;
+  --orange: #ff7e22;
+  --aorange: #e67e22;
+  --cyan: #00e6e6;
+  --acyan: #00b3b3;
+  --byan: #1DDDBD;
+  --blue: #0080ff;
+  --ablue: #287bff;
+  --bblue: #536878;
+  --cblue: #708090;
+  --dblue: #536872;
+  --eblue: #1b3752;
+  --pink: #ff00ff;
+  --apink: #ff00cc;
+  --red: #ED1D24;
+  --purp: #9b59b6;
+  --apurp: #7380ec;
+  --info: #17a2b8;
+  --danger: #ff5782;
+  --warning: #ffc107;
+  --sea: #009688;
+
+  --hovercol: rgba(112,139,200,0.18);
+  --boxshad: 0 1rem 2rem var(--hovercol);
+}
+
+#cModal.active {
+  display: block;
+}
+
+.cModalOverlay  {
+  z-index: -1;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; 
+  display: none;
+}
+
+
+
+#cModal {
+  background: hsla(0, 0%, 100%, 0.1);
+  border-radius: 10px;
+  box-shadow: var(--boxshad);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+
+  #cModalTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  #cModalTxt {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  #cModalLogo {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  #cModalBtn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1rem;
+  }
+  #cModalBtn > button {
+    margin-left: 1rem;
+  }
+  #cModalBtn > button:hover {
+    cursor: pointer;
+  }
+  .success {
+    background-color: var(--green);
+    color: var(--white);
+  }
+  .error {
+    background-color: var(--red);
+    color: var(--white);
+  }
+  .forbidden {
+    background-color: #f00000;
+    color: var(--white);
+  }
+  .noConnection {
+    background-color: var(--grey);
+    color: var(--white);
+  }
+  .warning {
+    background-color: var(--warning);
+    color: var(--white);
+  }
+  .info {
+    background-color: var(--info);
+    color: var(--white);
+  }
+  .underDev {
+    background-color: var(--orange);
+  }
