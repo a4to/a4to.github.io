@@ -1,0 +1,1 @@
+0084f157a1a402d4510bcfcabec48d0239fa9dc3a7278f71bc2185bdbad92bd938dda1e815d8f14ac6f7c32afe15d4a6d7afd5a3b0410b2aad6aebed5031feca  ./SVGs/telephone-outbound.svg

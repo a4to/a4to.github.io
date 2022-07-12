@@ -1,0 +1,1 @@
+f05285c7dfe02edfe9ee2c155ddcbda103b123086cce76ac20f0eca115be624baef986ee001bf2bb133c6e246e3b578f7983222f67b403ebfdefc175becd08c3  ./SVGs/clipboard-minus.svg

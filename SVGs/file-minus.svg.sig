@@ -1,0 +1,1 @@
+8c2573ae68bb0f2ef6038132bcd598350576aaecd2fd0e2e15f96b45b6d1d79d1f1ede29a2f9bbcdd2e9fa7013391a63aa1e88cac96991abe5ae9d4d761aeea3  ./SVGs/file-minus.svg

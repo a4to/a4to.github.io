@@ -1,0 +1,1 @@
+6fff2933aa0434af410eeb998f06e141e87f010cb2d2baae9a51f9ffc593b60bd5770fe0c3be9902c1bec79aac863c9843742efe560f581aa2fd391eb9a6ea31  ./SVGs/telephone-minus.svg

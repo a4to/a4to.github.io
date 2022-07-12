@@ -1,0 +1,1 @@
+47baa53b6827fc71426d9af9ee2df3f46e7b6bac175ab83c9f89033845869d47b503fc51da3d53f1dac2aeaafbbd684fffcc22aac8692607e9e5509b0169241f  ./SVGs/chat-square-fill.svg

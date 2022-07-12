@@ -1,0 +1,1 @@
+c423ff9e0b25edf7e69aa294f6c8bdc5cfa8bb6809296749564e5a8edf081c25e958dd40f4826e84a9826b4edc8af16b2e05e6e8ffdf6dee273c84dfd57b262b  ./SVGs/patch-minus-fill.svg

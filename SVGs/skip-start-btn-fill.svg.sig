@@ -1,0 +1,1 @@
+877e61aac5d2bcdcd715f3602aaca76a3d2c2bfb8b4377edcba0c194eb7d089f15659f7ad12d800c40489fd816c7cabb106c068a3437872e216cec74a547525c  ./SVGs/skip-start-btn-fill.svg

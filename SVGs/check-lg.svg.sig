@@ -1,0 +1,1 @@
+e501e6666e056a03f0facd15dfdfd4db7888fc30f5bda9fc67e28d2cb7a5e5cb9a3924598ba9cde77c5bd4f0c5a49c2a46de2d641ca8212841cf88a7c72a057c  ./SVGs/check-lg.svg

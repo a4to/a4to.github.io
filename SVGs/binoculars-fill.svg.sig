@@ -1,0 +1,1 @@
+f516d50b406d1a4e8cd7b5adb95de5b1bcabf3a2a8fe473c69f08f34f53c61e0ce28bdcb07ed81d68aaaa62f6eb1994daaccc6e3bf08ea5ba69c1d0fb9bbb065  ./SVGs/binoculars-fill.svg

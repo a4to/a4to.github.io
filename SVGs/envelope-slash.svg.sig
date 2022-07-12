@@ -1,0 +1,1 @@
+b8511ccb48ba451d74698d6a5a241eb8ec2fbcbe2deb9b856db7175756e265181d385a09bd0ff76586ef4a7d2bcfccaab727dd9b4c88a32b12af8f48cd252445  ./SVGs/envelope-slash.svg

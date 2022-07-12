@@ -1,0 +1,1 @@
+771d9538525acbb5b7e0a46c8f306af7f012989993d6055c92db05b6ddfc9af7edc4af315737c7fa393e89f383d440ffa3ca5a2f5011bd2df2ecc0b254ccff3a  ./SVGs/phone-landscape-fill.svg

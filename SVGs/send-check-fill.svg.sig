@@ -1,0 +1,1 @@
+4fe8fbd3a5ded50add48e8c3730c0a87634bfd15f12c20630d3b4ff4f0d26213edf8ac46e2cb8be5f8a3be6e29fa5ff15eadfe793b6941c2f845c6660a6a36f1  ./SVGs/send-check-fill.svg

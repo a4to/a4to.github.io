@@ -1,0 +1,1 @@
+5a4f4bd9723dc2a8c624d0603395d9e25c82ccbe4e22af51d3db657bc41cb970219264a3f12bf0db09ed4a9e9b4a7dd5de93d6ac1dcb7a30cd833fce4ded1874  ./SVGs/file-earmark-minus-fill.svg

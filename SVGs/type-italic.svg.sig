@@ -1,0 +1,1 @@
+49972215072fb3b527c0b77f04bdfe6e6ca63cdaf7d21e135fc1e432825abaad1650f3e157264d8c5bba6ce83adb13a682a357accecfef37be2b22c395c44bac  ./SVGs/type-italic.svg

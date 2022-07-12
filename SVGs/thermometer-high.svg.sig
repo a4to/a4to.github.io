@@ -1,0 +1,1 @@
+4b5db5129ae3e2a2e1a335e09edda907fdfe3e9ac4a29905ffc92996b9e841be64825b4350fa9909ebdb57e3b48c404736bd8751b2af8734d20ab5eefe2a3fa0  ./SVGs/thermometer-high.svg

@@ -1,0 +1,1 @@
+f2a307aaa60e0ea4a03b49ba31ad5d036ba4d58bf9233dacd5b18225e592b4ecf643d41e3e5a139e2ea69e2a6cc4dee0f452ef19e479bf3a82f85d7cdf11f7eb  ./SVGs/badge-ad-fill.svg

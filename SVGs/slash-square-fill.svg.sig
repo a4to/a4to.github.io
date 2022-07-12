@@ -1,0 +1,1 @@
+4ce3fdfb0ae369c4266e4b174d7dceefb5ac5e4e61070113b09bdf9732ade444e3d97cdf7e61a8dec0b3369dbb0d749c9d1ab70e92a888b5c5377c505123c8cc  ./SVGs/slash-square-fill.svg

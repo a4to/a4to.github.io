@@ -1,0 +1,1 @@
+a87e0ba8fe708b94e714cab503799b5674514e0c79d284c0fa67c018cc2f369fe3498b6fa4a5b6b4bb063a23bab1aec685bbfafdfbb490f920a620f39d44c8e1  ./SVGs/clipboard2-pulse.svg

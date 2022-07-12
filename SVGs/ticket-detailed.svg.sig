@@ -1,0 +1,1 @@
+8e9eecd44683c6dff445badb50683dae589ffff397ed5d7ddfab7fec8a054afe8a3ce7689bfd7afe497f716acff5b8b92448d59f6cd46064edc6aebe723c5184  ./SVGs/ticket-detailed.svg

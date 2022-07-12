@@ -1,0 +1,1 @@
+631f22c31beb9dd1d90b814380d55deccdac6e695aa7d7f9f1d666456864109d44cb001c0cb14bbb0c3b2dbcbbb1e3712a0e25cc4ba46ae48d215cdd1bf053f6  ./SVGs/truck-flatbed.svg

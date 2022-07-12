@@ -1,0 +1,1 @@
+f393371cfab0c4a3602145ec97df26b9b6daa7799b927ea593a220373b6d103d9eb6ecbad5926a2fb5f8bee963a4240acc4c79d52c21b934ab96bc930dfe9b92  ./SVGs/calendar-event-fill.svg

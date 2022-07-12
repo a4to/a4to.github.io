@@ -1,0 +1,1 @@
+562acc0ebbedf79036c91dcc60a94d5a7c4f87321216a61258bab9f6127a991fac6d3c22c4f81ccffd56db969068017d947bf8cd68986d26d26aed0d78d8c2bd  ./SVGs/chevron-compact-up.svg

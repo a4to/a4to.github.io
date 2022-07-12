@@ -1,0 +1,1 @@
+1e937be0922fec379cefdfcffd3bacefbc21a1ade11074cb239fd3b963d033cd6837aefde1c0b2a55a46ccba480b56e8e0057e479822b97f503cf52b1515a670  ./SVGs/gear-wide-connected.svg

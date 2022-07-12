@@ -1,0 +1,1 @@
+bea4f661c8b2e06f35be3cb3586069a44a5f4ff17ab3bdcfb4d30b6133dcd8707aa2db1e243a24cf3ae351e86d4a4f6ebb167c5be6f15c56359600a348cf2e8c  ./SVGs/sunglasses.svg

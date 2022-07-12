@@ -1,0 +1,1 @@
+a36f88524ba7c875b02e94dad7ff3eaccfcc8e91aa098cdf15fc0ab99fa8f0252a2bac6aff81ad78ff1bcb7d63eb87cccd08619fa9691046d0063d1bf02eb261  ./SVGs/image.svg

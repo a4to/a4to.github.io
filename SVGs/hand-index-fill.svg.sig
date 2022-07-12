@@ -1,0 +1,1 @@
+7ea9370fa2673000b6d61a24fec1a23debda1c0aecb4a7cb44e924fd83352bcd6625b9a01cb2639860bae1dc0eb9df12dc83a783a7021daa419782aaf662746e  ./SVGs/hand-index-fill.svg

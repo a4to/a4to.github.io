@@ -1,0 +1,1 @@
+d2b3c73fc063971573fcca562af4286a678694eae748f90dc6613bb8cbf01e79f044feae5dd26f882cc4e9bf9f5aeb423bda4b20e5d739792e70388fc1f1e32f  ./SVGs/brightness-low-fill.svg

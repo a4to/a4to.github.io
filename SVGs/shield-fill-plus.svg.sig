@@ -1,0 +1,1 @@
+b22c72d665e096f8aa253d2098c5ee38ed5b987b28d55e3ccbb9c6fe8181a5f200bbcef8bbd818562589c7c744abc5b71585e00babc1cccdcc271b56ba56dbd8  ./SVGs/shield-fill-plus.svg

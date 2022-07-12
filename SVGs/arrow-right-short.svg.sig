@@ -1,0 +1,1 @@
+1c74fa8a8fb820bde5bd2345e21c99ff30fec174b157cea347d4338ae7efec7932880b4e1bc1bdea1291089247c186b94f0cbeec7a87c2518ce7021ea273ba41  ./SVGs/arrow-right-short.svg

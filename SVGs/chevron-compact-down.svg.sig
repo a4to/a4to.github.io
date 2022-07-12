@@ -1,0 +1,1 @@
+1aa0e13cb4506fdd1a9adc8737642750bffabaadee7776d310cddebe620790328dc0aea1dc6827da4e4045a62ee68ba0812fe3cd61497d1def2901444e42c22d  ./SVGs/chevron-compact-down.svg

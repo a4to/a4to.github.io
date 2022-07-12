@@ -1,0 +1,1 @@
+c28526f10b211ca21fef1be661848c71dc2d1c49edb5bc17711489f2df9abeaaa31cbfa8dcd3baf4ebde452e771fe277045ed2cb3473a94ee81018071afcc149  ./SVGs/egg-fried.svg

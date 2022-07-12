@@ -1,0 +1,1 @@
+0a15f7187b9b1be1732070b58b37ea67bd9b1b2d3a79a8d3d5bda6da71d16dfec87e8cafe69e6ba371bdb4293ee786d29c2c2b38432cbdf8a0fe995595e6d4e5  ./SVGs/cash-stack.svg

@@ -1,0 +1,1 @@
+c4b36be07a387ee78a1b00e5246434eae5c1ecbcc0c3a453d1d3dbc67a86e53d185b32d1ad942c3f3899506df7d5c7f6d80cc3b1be9509f77ee2302cee7abdf9  ./SVGs/house-fill.svg

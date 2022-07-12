@@ -1,0 +1,1 @@
+b5ebef8ddf52eb2fc4df9d0249af6cb980fdad6bc7fe0e54c6f8ed2d3b5897077fd3b701ac93d10e418dd647bc691eea3f3215af7e005e9195802ab390a4be56  ./SVGs/dice-3-fill.svg

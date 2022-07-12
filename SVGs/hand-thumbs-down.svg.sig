@@ -1,0 +1,1 @@
+dfe4555ea09acd0e7d5c6cd654d6d1a597eeaccb3b9af139ba0ee5d84f28dedbdb0f5f846d38509130d8574ab48324e8aae93707c0a9a0dc7e513f16852d6eae  ./SVGs/hand-thumbs-down.svg

@@ -1,0 +1,1 @@
+23f1028c8b4c2bdf58f40773edb8dce967e59cb3836f81f9757eb12bc78abd1228b7619abbad51bbbff71b2c6c3be83639eb61dc1ecee120d3a08f646f47f36b  ./SVGs/camera-video-off-fill.svg

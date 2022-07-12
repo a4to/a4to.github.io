@@ -1,0 +1,1 @@
+3f399f177a1470bb5054b1f7d07edf36b1ada7a654b6efcb15239cdd0595dc9b7d93bfb178680673a4c62bf83e3baa08ce45ed1c3fedf8efab21d525de4b71aa  ./SVGs/arrow-up-right-circle.svg

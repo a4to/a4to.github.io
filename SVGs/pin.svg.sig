@@ -1,0 +1,1 @@
+2df56ee6ec637751e9e2d03e50cc452f2f124968ec2c64565e4eee9b5aebde8cd8295eaadb2dc87c51ee5c4c2cc1109ec2f4002d7aadb473e748435a3b5ebaad  ./SVGs/pin.svg

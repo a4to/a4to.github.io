@@ -1,0 +1,1 @@
+a048dffd25bab3847cf33a21a7957aadeea66fdd48b4ed6c05e73a233aff72741fbd513f4b78c818af1c2cd0d4e38eaf199fb717f81cbce7bfb6fc1551d1b60d  ./SVGs/folder-check.svg

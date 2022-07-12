@@ -1,0 +1,1 @@
+76de29fa24cc2fd089ef9a1d2e0adc8a3fba7ba7dd49ea351eeed9953b5a212c50550c5be2e5fc2e1cece2639e165d5e645de676d4e98e1f8b7c28e76cd8f8c1  ./SVGs/star-half.svg

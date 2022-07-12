@@ -1,0 +1,1 @@
+de2e4b34261cb9b297d74c6bfde5720bf64fd3482dd8e3e4c048e7fab59ed336d16be0036e568e5ba046b284cdaedbe30fa16a7d803bd50cee52c546b48413d5  ./SVGs/calendar2-minus-fill.svg

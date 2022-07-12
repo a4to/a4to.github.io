@@ -1,0 +1,1 @@
+d9bb642a466a1ca522cb50b96f42ed7e74e839d86aece98e3a0d1aed0938191ff1401ba6d4d484baba0b81ea8fdf1e5c3c1ed5483118432c0d49ceafd55b3ee5  ./SVGs/lightbulb-fill.svg

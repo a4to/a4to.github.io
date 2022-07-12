@@ -1,0 +1,1 @@
+c0ee2dcad418bcf3234ea0b2bd6ddf7b8c3ab0b85f20b80a7dfebf3afedff7492c15a017952b58392f083feabe34ddf9d5386cd932666716e1c7bb8d9178bb23  ./SVGs/clock-fill.svg

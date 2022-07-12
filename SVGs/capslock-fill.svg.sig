@@ -1,0 +1,1 @@
+7d8e7d3c1f38ed139d6f45a70b729b5ed0eda67ef97bcb7aabac159c7463dd2ce2e55cdaabc63eff3b926c91aba9d496dfa105f849c1fa3d8b80683e98f6a03d  ./SVGs/capslock-fill.svg

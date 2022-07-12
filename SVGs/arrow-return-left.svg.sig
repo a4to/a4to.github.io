@@ -1,0 +1,1 @@
+e5c24dd40fd0fe5f2b2d4a64bdab9cdf21ad3fd7c1829b9545a3cb0470aa7f2fe5d2babac1fd33e64b0ce5e203718685aef4cfff1c0f6e6c59f916710c11ceae  ./SVGs/arrow-return-left.svg

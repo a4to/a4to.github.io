@@ -1,0 +1,1 @@
+cdc891aad3cd91e755c703df9dc2bd06cfabbfa923a1f2b7fb8f91370176efcb5e795b17e4425c008fdc15e031cb270535fd433e5d51a463b3a7bb07cd68ff41  ./SVGs/clipboard-check-fill.svg

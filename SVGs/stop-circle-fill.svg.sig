@@ -1,0 +1,1 @@
+907ce79e826ee58a7415969c9e3b83ae03af95dae1eb58c7775fd1dbb260c3ad022e690af76943fdabcfd696b47f515728bbd579d8ce5cc080a7d62c938be64c  ./SVGs/stop-circle-fill.svg

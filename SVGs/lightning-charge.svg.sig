@@ -1,0 +1,1 @@
+0bb2472b46f3fcc835c2392e13df478e0d088bfdcfd75570cdbf09c1b83acb7f7a8fce21f0faa784713f732c8c7d5ab0535a5fd52baf4cc8e3de6fe6b264181d  ./SVGs/lightning-charge.svg

@@ -1,0 +1,1 @@
+20c8da14fb1a163c4eac62d64672f7210a57a295b0371dfa91b58703af0b95c835dbae04fef274ffa8bab9d9a33176b00a620cdd73bb0dcea32af3ed9caabb10  ./SVGs/hourglass-split.svg

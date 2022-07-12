@@ -1,0 +1,1 @@
+b05fc458f3d9cbaed3b140ef064bb516d4fef252f4813f93d53a38de8eb38097c368bbbcf2ed82f5b26528bdb245af0135cb381eee1155ee2b258c5098276c66  ./SVGs/layout-sidebar-inset.svg
