@@ -1,1 +1,0 @@
-edaddbbf40eea870685957e14d39d7f524fa28863190aaaac60c914799fb41a217d5a87555d0e88b7fce1374978ef2f432d6b4b5a66b6dfdb1842eaeaa1fd4be  ./SVGs/stickies-fill.svg

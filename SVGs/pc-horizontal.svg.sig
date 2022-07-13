@@ -1,1 +1,0 @@
-d8fe4e67a6e5ccac2d379674bcd83ec7d4c014df10013974fd6f72ea532f2d8e8dcc2d8e178904ade97f6a4d9973dee687a1cc0b4e512b06816bcff82c2035db  ./SVGs/pc-horizontal.svg

@@ -1,1 +1,0 @@
-82a687e3790b876ece1624645da1781cbaff8ed4aff0d4cfd1338570f9661d8f5f0a58a0ffc94ba701ea746f751affe871e5e57adae6ac4f7e36a2035cb8590c  ./SVGs/calendar-range-fill.svg

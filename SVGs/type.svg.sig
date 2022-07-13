@@ -1,1 +1,0 @@
-a8d888c4db4286c28d2ab707246e33c0ecffe1adc66c6bbef924a62d959d7ad27cc834e0c4f8d7c8d12cddfda9fa0323dceac438fff2867e121df2e7efd4dd98  ./SVGs/type.svg

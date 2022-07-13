@@ -1,1 +1,0 @@
-e573d8356b06e5f9ed9ddf168149030d42dddf192c8190bc9c0289315234e802b5cac35cae850b89dbe8bd899b18a762fff8c70fa81ded59ac939b1f19ab367a  ./SVGs/send-exclamation-fill.svg

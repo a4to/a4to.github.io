@@ -1,1 +1,0 @@
-3ee3be48a547cb062497b7c4abe505989881692944dfa9cab905e9c5ef5c5e49f6965afcfc498de0ff3b74212ab96738c4cbc9d1e6b8fc2aef4d09757e9852ce  ./SVGs/telephone-forward.svg

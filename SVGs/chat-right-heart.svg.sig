@@ -1,1 +1,0 @@
-e6f2f9106577d6e9a64fd8d9a6cc6ad2df99e45b36ee0cc23c2e97c052c0831e9f3e53d6ca55fe6fecb46344ad8255bd88c909ba10bc43ed11aa2c292260e2a9  ./SVGs/chat-right-heart.svg

@@ -1,1 +1,0 @@
-db180b59f3c5afccbb56bea97e72df0a87b385c9bf839e34f11abed6ebbb220570a12215da10a862a539dc79030baf2994cbcd6c4cd79c5e2cda799f65affda7  ./SVGs/sort-numeric-down.svg

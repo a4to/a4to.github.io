@@ -1,1 +1,0 @@
-70652ca00ad22dc0e97826ca80cbedf0cb6a62a4bf61d4a38c148ceadb936d3c83f1f7c44d016872c971b41913011163af7634f9bc864ee0dac711d43fd93cce  ./SVGs/file-earmark-bar-graph-fill.svg

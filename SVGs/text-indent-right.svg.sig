@@ -1,1 +1,0 @@
-b3d5bc9eefc6a5aacfd1a5a4cc37315b3d565e4a7de8f285a862a3ab26a60f143aad1a5dd045ab7a50936b4e5025853f227f438c5b3f2f53c51b1f1c72718cb8  ./SVGs/text-indent-right.svg

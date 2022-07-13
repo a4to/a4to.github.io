@@ -1,1 +1,0 @@
-04f26bb289faf9991e4809759a2df75b1dfd9ad941fabc79c326250eef5f8a91bed8c839d3f015eccef4f771f5ace8d41f495d3581c11b8b51a1ae24d008e025  ./SVGs/pc-display-horizontal.svg

@@ -1,1 +1,0 @@
-14156d9fde53caa89d715ed46acc58fd1110caec804a6ad6ac4bb9cde84fc27801a166604e99da12f89d3e2cf69ffd725a88c78ee2f2df034b2d191b2a550c0e  ./SVGs/file-bar-graph.svg

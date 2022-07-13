@@ -1,1 +1,0 @@
-7dacf14a8e96303da5f701973c34168a789fada9be13f8dad04bdc91f51c2c734291d48bf01a845acbd22cceb4ae138cb0d8cfe97a65f29ef14c4d360c177b46  ./SVGs/clipboard-heart.svg

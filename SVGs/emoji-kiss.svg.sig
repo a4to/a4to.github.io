@@ -1,1 +1,0 @@
-3ace79154a1bf235b58c065c0b1c2bd8aca26b8bbf5ae542a19325241bdf2cad588e78fd371daee071d96a2f5727809e9bb7a653e74cbc09dda92d1d6b32faca  ./SVGs/emoji-kiss.svg

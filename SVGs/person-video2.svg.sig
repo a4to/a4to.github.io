@@ -1,1 +1,0 @@
-d712b81687e3c8bfaece7a4b1ccfaf679e4a2001df5dacb9daebe51397f0eb1617066d7e66bdb9c75fdacbbfa79cff83843979e74f7b7225e95399c07a608008  ./SVGs/person-video2.svg

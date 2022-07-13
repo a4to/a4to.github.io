@@ -1,1 +1,0 @@
-5b79c1390be4bc39c99c357cfae5d44208290cf35c526321f2ff21cfe4b714b82dbff09e2d2e7e119d70bb34a487abbb3b4c70e77e9ae6cd7f5e5c8454e2ab38  ./SVGs/piggy-bank-fill.svg

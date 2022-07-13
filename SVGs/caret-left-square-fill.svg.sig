@@ -1,1 +1,0 @@
-0ca58350af9e56dac1834ab8c5ac3cbb1e52fc29751e09606611fa9dd7fc6b75e46d9dac81eb93923e8cdba83b43954e092be74aed4be5d032195f7b6261020c  ./SVGs/caret-left-square-fill.svg

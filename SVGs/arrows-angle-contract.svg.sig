@@ -1,1 +1,0 @@
-f83e79eb205a44f650fddb0ddbb2dd16ab474aaff061e3c1068294c979ba389185b907ef1bb3929c7d57364a9656c729259e1d30bbf11baffe5e23d4db4b4944  ./SVGs/arrows-angle-contract.svg

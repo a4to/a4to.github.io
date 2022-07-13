@@ -1,1 +1,0 @@
-de54bb64817c670822512430157e21e7ea1ed7c5e998ed37c5aaec147d0efada51eb8bf4af496460ce4c79ea1cab7a1312147d9bb60c22837e6962aba1dfd149  ./SVGs/patch-exclamation-fill.svg

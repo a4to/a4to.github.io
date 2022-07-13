@@ -1,1 +1,0 @@
-ebc58de794ad608adbf0527f8bd7c6d37a5c71ae4c5e71d203ca6160462795abbc0c7df0869be7d8110f34082bf4fd486dc6ea06e77721b8f5b5e544bdb0cfa3  ./SVGs/shield-lock-fill.svg

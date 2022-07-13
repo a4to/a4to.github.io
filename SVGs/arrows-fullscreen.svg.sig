@@ -1,1 +1,0 @@
-80643c07842ca7624c8f6fa3ef8c666febad918b5cf7fa336cfa2f50a354dcc380afa1d6ddda6e01e5494abd9df8300cd000e7210e6554deb59e60417eada2b8  ./SVGs/arrows-fullscreen.svg

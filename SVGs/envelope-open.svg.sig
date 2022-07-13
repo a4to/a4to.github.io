@@ -1,1 +1,0 @@
-39da830096fda518db7b3504bf5ac6c8cde5abae7b5b0e71275d0bbcdfdee2e25985c5fe2cf22e08f75384d2d99ddcc7ad35c4bb3eac31b1697fc1c533c1f431  ./SVGs/envelope-open.svg

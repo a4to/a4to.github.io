@@ -1,1 +1,0 @@
-e734c4f18faefbae9ab62fd0e442a7cc7d05663ea026011b4a4fd452ddc5d69344c31bd7e6ff1816d9fd8f766d50fff08a99b0d81ffeec9c163b89b0c7a8d9c2  ./SVGs/heptagon-half.svg

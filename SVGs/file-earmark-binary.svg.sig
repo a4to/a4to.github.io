@@ -1,1 +1,0 @@
-0f6e21f035ea505f33511306bf5d04a9b6f5f34a6a5ab83ca93728923b3bdd705f97354390fd03bf0ba7f08e4cad43772ea64b4aaa2fa3f15a1368aecfa6edf4  ./SVGs/file-earmark-binary.svg

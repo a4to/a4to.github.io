@@ -1,1 +1,0 @@
-0362b2f2e724a1f5ee4eb7d5cec89f2e4c87c2f47dd17940c1ca557dd8fdd49b3ead820c5c9bdecace958ca70c0f16c18f7835e97ba206a0140e73aa2dd51ee4  ./SVGs/file-earmark-code.svg

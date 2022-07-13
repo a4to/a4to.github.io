@@ -1,1 +1,0 @@
-4dbe5fcdbe9f9e28229d0fe32d07dbb1de5ce247776bb69ec075e86c08bffbbdc8488383d7891a1185e60d3aa7b48f2b615f21aae9eb4f6a2737e2e66253e186  ./SVGs/displayport-fill.svg

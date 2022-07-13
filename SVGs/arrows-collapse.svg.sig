@@ -1,1 +1,0 @@
-01edc1da3b3c4326a87255e4ccbf0f3ce02c98c3a444cead5eb84bbb58d3c260ee7a8931b3d8e125abff453fdba6974c6131fce289c5b11fff3d6e6b65887636  ./SVGs/arrows-collapse.svg

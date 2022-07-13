@@ -1,1 +1,0 @@
-3ce24405f61d7d208c3ec3cb199b645d66ceb35e5ce3c63b1bc96c4e79798d849a8bec5bda2c3cb9fdb9f1750d3ac1909d1b01c9b3f535d020c0a87a27953ea6  ./SVGs/file-medical-fill.svg

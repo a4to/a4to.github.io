@@ -1,1 +1,0 @@
-ea1279479562ba8d9f16227790024d3f7923c787d4e426af227f46421b85b8de17d31cd988db6ddb7861efae2f987c1ea27aa2cadf4d3e3e7e627451e7fd6ce3  ./SVGs/layout-text-window-reverse.svg

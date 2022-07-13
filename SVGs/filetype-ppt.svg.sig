@@ -1,1 +1,0 @@
-1be8b7334006c99ab892df9b8dbafe4bc9b895dfae183ae81d0fb1fecd9e898bdc0d1b2c0706c9fd9b63a9236e6ab35abbeadafec5a5b12d0ce3ec16cdd21d8c  ./SVGs/filetype-ppt.svg

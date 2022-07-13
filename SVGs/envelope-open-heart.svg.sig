@@ -1,1 +1,0 @@
-445e666860bffc44dbe69a79f869f6d57edc9135ef1c6cbec0d016721ac6f9b23461dc0c8ae02cd667c9fc4e05d602c03fc58ad3653062bdd7dc59aaa5c71d76  ./SVGs/envelope-open-heart.svg

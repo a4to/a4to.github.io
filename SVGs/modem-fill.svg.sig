@@ -1,1 +1,0 @@
-910fa6a0711abd9d0e366cbd33d35dbfce297cc3ed92617f3661252c9eed98f1809ef7f87dfe8a3f2c9038fa74fa1266103eea8ddff4ac508945c6feca9d46ae  ./SVGs/modem-fill.svg

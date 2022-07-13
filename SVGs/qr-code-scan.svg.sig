@@ -1,1 +1,0 @@
-0c9b84c1b58de522e4be1f34d6ae95f64e5451f5c0edb2f17abd814abe89cf69d09f1f3d85b1acfd4ca1e70f39accffb02a50167dbb3ff337f86f3faaa8c0373  ./SVGs/qr-code-scan.svg

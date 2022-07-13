@@ -1,1 +1,0 @@
-7d2b2ddf921433cda52bcdb8f3e8ee56f75d20b09718e17937f791c1146c945a2c58bcf0ba390c7ddf79228b73ef20aa141d1b459015f2443e196b979d1c00fb  ./SVGs/arrow-down-left-square-fill.svg

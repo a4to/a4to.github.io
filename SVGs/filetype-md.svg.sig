@@ -1,1 +1,0 @@
-af749b5f52cccfe492e279e3c60d53399ae9d514a974bb28f56ba881abe8ab21eff7a232afd7e77d5c60b02d3d76cee1c3de2e21de0b73fcb793a37c0f87a384  ./SVGs/filetype-md.svg

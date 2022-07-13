@@ -1,1 +1,0 @@
-a180d72c785a95ea06ab7104f1b0a8bdb2e103091aa136b96fae7e0147e829c9d9285768191962d9ba3bff7a5d6beb3fd8cb1d71285c5f2cebce3fffd22dd01e  ./SVGs/layout-sidebar-reverse.svg

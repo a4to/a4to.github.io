@@ -1,1 +1,0 @@
-ad1b8de158b1b888b5109c9a140bbec03ca6ff8ce41b00ec8552c9b1a9d2d09dbae1ef9593bf5780171cd5aa8c35b4c20e2c9392bd5244827f0b5ffbb0afcd69  ./SVGs/telephone-inbound.svg

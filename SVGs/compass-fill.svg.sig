@@ -1,1 +1,0 @@
-fe0ddaaa2f55d2602167497dfad93a06ef4e33b89ccb00fdba7dbe6d2738e8320ddcb2aa15daf5351d055e1f85f1e3bddafe4597660d0f7074e0145e659ac0a0  ./SVGs/compass-fill.svg

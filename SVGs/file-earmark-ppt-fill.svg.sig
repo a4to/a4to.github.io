@@ -1,1 +1,0 @@
-ff5242a430270ba8aacdfbc30f5340a17c5c9955211e0877e40415740f5beca5013983bc6678d5addcdae63fb8ff0cfac9dc440639cd996d0cb0a02ca3eba82c  ./SVGs/file-earmark-ppt-fill.svg

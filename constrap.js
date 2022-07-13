@@ -1,4 +1,3 @@
-
 ! function(t, e) {
     "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : (t = "undefined" != typeof globalThis ? globalThis : t || self).bootstrap = e()
 }(this, (function() {
@@ -37,7 +36,7 @@
             return t
         },
         i = t => {
-            let e = t.getAttribute("c-target");
+            let e = t.getAttribute("data-bs-target");
             if (!e || "#" === e) {
                 let i = t.getAttribute("href");
                 if (!i || !i.includes("#") && !i.startsWith(".")) return null;
@@ -83,7 +82,7 @@
             const {
                 jQuery: t
             } = window;
-            return t && !document.body.hasAttribute("c-no-jquery") ? t : null
+            return t && !document.body.hasAttribute("data-bs-no-jquery") ? t : null
         },
         m = [],
         g = () => "rtl" === document.documentElement.dir,
@@ -338,7 +337,7 @@
             }
         }
     }
-    P.on(document, "click.bs.alert.data-api", '[c-dismiss="alert"]', W.handleDismiss(new W)), _(W);
+    P.on(document, "click.bs.alert.data-api", '[data-bs-dismiss="alert"]', W.handleDismiss(new W)), _(W);
     class q extends B {
         static get NAME() {
             return "button"
@@ -361,17 +360,17 @@
     function $(t) {
         return t.replace(/[A-Z]/g, t => "-" + t.toLowerCase())
     }
-    P.on(document, "click.bs.button.data-api", '[c-toggle="button"]', t => {
+    P.on(document, "click.bs.button.data-api", '[data-bs-toggle="button"]', t => {
         t.preventDefault();
-        const e = t.target.closest('[c-toggle="button"]');
+        const e = t.target.closest('[data-bs-toggle="button"]');
         q.getOrCreateInstance(e).toggle()
     }), _(q);
     const U = {
             setDataAttribute(t, e, i) {
-                t.setAttribute("c-" + $(e), i)
+                t.setAttribute("data-bs-" + $(e), i)
             },
             removeDataAttribute(t, e) {
-                t.removeAttribute("c-" + $(e))
+                t.removeAttribute("data-bs-" + $(e))
             },
             getDataAttributes(t) {
                 if (!t) return {};
@@ -381,7 +380,7 @@
                     n = n.charAt(0).toLowerCase() + n.slice(1, n.length), e[n] = z(t.dataset[i])
                 }), e
             },
-            getDataAttribute: (t, e) => z(t.getAttribute("c-" + $(e))),
+            getDataAttribute: (t, e) => z(t.getAttribute("data-bs-" + $(e))),
             offset(t) {
                 const e = t.getBoundingClientRect();
                 return {
@@ -508,9 +507,9 @@
             if (this._indicatorsElement) {
                 const i = t.findOne(".active", this._indicatorsElement);
                 i.classList.remove("active"), i.removeAttribute("aria-current");
-                const n = t.find("[c-target]", this._indicatorsElement);
+                const n = t.find("[data-bs-target]", this._indicatorsElement);
                 for (let t = 0; t < n.length; t++)
-                    if (Number.parseInt(n[t].getAttribute("c-slide-to"), 10) === this._getItemIndex(e)) {
+                    if (Number.parseInt(n[t].getAttribute("data-bs-slide-to"), 10) === this._getItemIndex(e)) {
                         n[t].classList.add("active"), n[t].setAttribute("aria-current", "true");
                         break
                     }
@@ -519,7 +518,7 @@
         _updateInterval() {
             const e = this._activeElement || t.findOne(".active.carousel-item", this._element);
             if (!e) return;
-            const i = Number.parseInt(e.getAttribute("c-interval"), 10);
+            const i = Number.parseInt(e.getAttribute("data-bs-interval"), 10);
             i ? (this._config.defaultInterval = this._config.defaultInterval || this._config.interval, this._config.interval = i) : this._config.interval = this._config.defaultInterval || this._config.interval
         }
         _slide(e, i) {
@@ -587,12 +586,12 @@
             const i = {...U.getDataAttributes(e),
                     ...U.getDataAttributes(this)
                 },
-                n = this.getAttribute("c-slide-to");
+                n = this.getAttribute("data-bs-slide-to");
             n && (i.interval = !1), Z.carouselInterface(e, i), n && Z.getInstance(e).to(n), t.preventDefault()
         }
     }
-    P.on(document, "click.bs.carousel.data-api", "[c-slide], [c-slide-to]", Z.dataApiClickHandler), P.on(window, "load.bs.carousel.data-api", () => {
-        const e = t.find('[c-ride="carousel"]');
+    P.on(document, "click.bs.carousel.data-api", "[data-bs-slide], [data-bs-slide-to]", Z.dataApiClickHandler), P.on(window, "load.bs.carousel.data-api", () => {
+        const e = t.find('[data-bs-ride="carousel"]');
         for (let t = 0, i = e.length; t < i; t++) Z.carouselInterface(e[t], Z.getInstance(e[t]))
     }), _(Z);
     const J = {
@@ -605,8 +604,8 @@
         };
     class et extends B {
         constructor(e, i) {
-            super(e), this._isTransitioning = !1, this._config = this._getConfig(i), this._triggerArray = t.find(`[c-toggle="collapse"][href="#${this._element.id}"],[c-toggle="collapse"][c-target="#${this._element.id}"]`);
-            const s = t.find('[c-toggle="collapse"]');
+            super(e), this._isTransitioning = !1, this._config = this._getConfig(i), this._triggerArray = t.find(`[data-bs-toggle="collapse"][href="#${this._element.id}"],[data-bs-toggle="collapse"][data-bs-target="#${this._element.id}"]`);
+            const s = t.find('[data-bs-toggle="collapse"]');
             for (let e = 0, i = s.length; e < i; e++) {
                 const i = s[e],
                     o = n(i),
@@ -627,7 +626,7 @@
         show() {
             if (this._isTransitioning || this._element.classList.contains("show")) return;
             let e, i;
-            this._parent && (e = t.find(".show, .collapsing", this._parent).filter(t => "string" == typeof this._config.parent ? t.getAttribute("c-parent") === this._config.parent : t.classList.contains("collapse")), 0 === e.length && (e = null));
+            this._parent && (e = t.find(".show, .collapsing", this._parent).filter(t => "string" == typeof this._config.parent ? t.getAttribute("data-bs-parent") === this._config.parent : t.classList.contains("collapse")), 0 === e.length && (e = null));
             const n = t.findOne(this._selector);
             if (e) {
                 const t = e.find(t => n !== t);
@@ -678,7 +677,7 @@
                 parent: e
             } = this._config;
             e = a(e);
-            const i = `[c-toggle="collapse"][c-parent="${e}"]`;
+            const i = `[data-bs-toggle="collapse"][data-bs-parent="${e}"]`;
             return t.find(i, e).forEach(t => {
                 const e = s(t);
                 this._addAriaAndCollapsedClass(e, [t])
@@ -709,7 +708,7 @@
             }))
         }
     }
-    P.on(document, "click.bs.collapse.data-api", '[c-toggle="collapse"]', (function(e) {
+    P.on(document, "click.bs.collapse.data-api", '[data-bs-toggle="collapse"]', (function(e) {
         ("A" === e.target.tagName || e.delegateTarget && "A" === e.delegateTarget.tagName) && e.preventDefault();
         const i = U.getDataAttributes(this),
             s = n(this);
@@ -1936,7 +1935,7 @@
         }
         static clearMenus(e) {
             if (e && (2 === e.button || "keyup" === e.type && "Tab" !== e.key)) return;
-            const i = t.find('[c-toggle="dropdown"]');
+            const i = t.find('[data-bs-toggle="dropdown"]');
             for (let t = 0, n = i.length; t < n; t++) {
                 const n = Ae.getInstance(i[t]);
                 if (!n || !1 === n._config.autoClose) continue;
@@ -1962,11 +1961,11 @@
             const i = this.classList.contains("show");
             if (!i && "Escape" === e.key) return;
             if (e.preventDefault(), e.stopPropagation(), h(this)) return;
-            const n = () => this.matches('[c-toggle="dropdown"]') ? this : t.prev(this, '[c-toggle="dropdown"]')[0];
+            const n = () => this.matches('[data-bs-toggle="dropdown"]') ? this : t.prev(this, '[data-bs-toggle="dropdown"]')[0];
             return "Escape" === e.key ? (n().focus(), void Ae.clearMenus()) : "ArrowUp" === e.key || "ArrowDown" === e.key ? (i || n().click(), void Ae.getInstance(n())._selectMenuItem(e)) : void(i && "Space" !== e.key || Ae.clearMenus())
         }
     }
-    P.on(document, "keydown.bs.dropdown.data-api", '[c-toggle="dropdown"]', Ae.dataApiKeydownHandler), P.on(document, "keydown.bs.dropdown.data-api", ".dropdown-menu", Ae.dataApiKeydownHandler), P.on(document, "click.bs.dropdown.data-api", Ae.clearMenus), P.on(document, "keyup.bs.dropdown.data-api", Ae.clearMenus), P.on(document, "click.bs.dropdown.data-api", '[c-toggle="dropdown"]', (function(t) {
+    P.on(document, "keydown.bs.dropdown.data-api", '[data-bs-toggle="dropdown"]', Ae.dataApiKeydownHandler), P.on(document, "keydown.bs.dropdown.data-api", ".dropdown-menu", Ae.dataApiKeydownHandler), P.on(document, "click.bs.dropdown.data-api", Ae.clearMenus), P.on(document, "keyup.bs.dropdown.data-api", Ae.clearMenus), P.on(document, "click.bs.dropdown.data-api", '[data-bs-toggle="dropdown"]', (function(t) {
         t.preventDefault(), Ae.dropdownInterface(this)
     })), _(Ae);
     class Te {
@@ -2090,7 +2089,7 @@
         show(t) {
             this._isShown || this._isTransitioning || P.trigger(this._element, "show.bs.modal", {
                 relatedTarget: t
-            }).defaultPrevented || (this._isShown = !0, this._isAnimated() && (this._isTransitioning = !0), this._scrollBar.hide(), document.body.classList.add("modal-open"), this._adjustDialog(), this._setEscapeEvent(), this._setResizeEvent(), P.on(this._element, "click.dismiss.bs.modal", '[c-dismiss="modal"]', t => this.hide(t)), P.on(this._dialog, "mousedown.dismiss.bs.modal", () => {
+            }).defaultPrevented || (this._isShown = !0, this._isAnimated() && (this._isTransitioning = !0), this._scrollBar.hide(), document.body.classList.add("modal-open"), this._adjustDialog(), this._setEscapeEvent(), this._setResizeEvent(), P.on(this._element, "click.dismiss.bs.modal", '[data-bs-dismiss="modal"]', t => this.hide(t)), P.on(this._dialog, "mousedown.dismiss.bs.modal", () => {
                 P.one(this._element, "mouseup.dismiss.bs.modal", t => {
                     t.target === this._element && (this._ignoreBackdropClick = !0)
                 })
@@ -2189,7 +2188,7 @@
             }))
         }
     }
-    P.on(document, "click.bs.modal.data-api", '[c-toggle="modal"]', (function(t) {
+    P.on(document, "click.bs.modal.data-api", '[data-bs-toggle="modal"]', (function(t) {
         const e = s(this);
         ["A", "AREA"].includes(this.tagName) && t.preventDefault(), P.one(e, "show.bs.modal", t => {
             t.defaultPrevented || P.one(e, "hidden.bs.modal", () => {
@@ -2258,7 +2257,7 @@
             }), t.focus()
         }
         _addEventListeners() {
-            P.on(this._element, "click.dismiss.bs.offcanvas", '[c-dismiss="offcanvas"]', () => this.hide()), P.on(this._element, "keydown.dismiss.bs.offcanvas", t => {
+            P.on(this._element, "click.dismiss.bs.offcanvas", '[data-bs-dismiss="offcanvas"]', () => this.hide()), P.on(this._element, "keydown.dismiss.bs.offcanvas", t => {
                 this._config.keyboard && "Escape" === t.key && this.hide()
             })
         }
@@ -2272,7 +2271,7 @@
             }))
         }
     }
-    P.on(document, "click.bs.offcanvas.data-api", '[c-toggle="offcanvas"]', (function(e) {
+    P.on(document, "click.bs.offcanvas.data-api", '[data-bs-toggle="offcanvas"]', (function(e) {
         const i = s(this);
         if (["A", "AREA"].includes(this.tagName) && e.preventDefault(), h(this)) return;
         P.one(i, "hidden.bs.offcanvas", () => {
@@ -2499,7 +2498,7 @@
             if (null !== t) return r(e) ? (e = a(e), void(this._config.html ? e.parentNode !== t && (t.innerHTML = "", t.appendChild(e)) : t.textContent = e.textContent)) : void(this._config.html ? (this._config.sanitize && (e = Re(e, this._config.allowList, this._config.sanitizeFn)), t.innerHTML = e) : t.textContent = e)
         }
         getTitle() {
-            let t = this._element.getAttribute("c-original-title");
+            let t = this._element.getAttribute("data-bs-original-title");
             return t || (t = "function" == typeof this._config.title ? this._config.title.call(this._element) : this._config.title), t
         }
         updateAttachment(t) {
@@ -2576,8 +2575,8 @@
         }
         _fixTitle() {
             const t = this._element.getAttribute("title"),
-                e = typeof this._element.getAttribute("c-original-title");
-            (t || "string" !== e) && (this._element.setAttribute("c-original-title", t || ""), !t || this._element.getAttribute("aria-label") || this._element.textContent || this._element.setAttribute("aria-label", t), this._element.setAttribute("title", ""))
+                e = typeof this._element.getAttribute("data-bs-original-title");
+            (t || "string" !== e) && (this._element.setAttribute("data-bs-original-title", t || ""), !t || this._element.getAttribute("aria-label") || this._element.textContent || this._element.setAttribute("aria-label", t), this._element.setAttribute("title", ""))
         }
         _enter(t, e) {
             e = this._initializeOnDelegatedTarget(t, e), t && (e._activeTrigger["focusin" === t.type ? "focus" : "hover"] = !0), e.getTipElement().classList.contains("show") || "show" === e._hoverState ? e._hoverState = "show" : (clearTimeout(e._timeout), e._hoverState = "show", e._config.delay && e._config.delay.show ? e._timeout = setTimeout(() => {
@@ -2687,7 +2686,7 @@
             this.getTipElement().classList.add("bs-popover-" + this.updateAttachment(t))
         }
         _getContent() {
-            return this._element.getAttribute("c-content") || this._config.content
+            return this._element.getAttribute("data-bs-content") || this._config.content
         }
         _cleanTipClass() {
             const t = this.getTipElement(),
@@ -2780,7 +2779,7 @@
         }
         _activate(e) {
             this._activeTarget = e, this._clear();
-            const i = this._selector.split(",").map(t => `${t}[c-target="${e}"],${t}[href="${e}"]`),
+            const i = this._selector.split(",").map(t => `${t}[data-bs-target="${e}"],${t}[href="${e}"]`),
                 n = t.findOne(i.join(","));
             n.classList.contains("dropdown-item") ? (t.findOne(".dropdown-toggle", n.closest(".dropdown")).classList.add("active"), n.classList.add("active")) : (n.classList.add("active"), t.parents(n, ".nav, .list-group").forEach(e => {
                 t.prev(e, ".nav-link, .list-group-item").forEach(t => t.classList.add("active")), t.prev(e, ".nav-item").forEach(e => {
@@ -2804,7 +2803,7 @@
         }
     }
     P.on(window, "load.bs.scrollspy.data-api", () => {
-        t.find('[c-spy="scroll"]').forEach(t => new Je(t))
+        t.find('[data-bs-spy="scroll"]').forEach(t => new Je(t))
     }), _(Je);
     class ti extends B {
         static get NAME() {
@@ -2865,7 +2864,7 @@
             }))
         }
     }
-    P.on(document, "click.bs.tab.data-api", '[c-toggle="tab"], [c-toggle="pill"], [c-toggle="list"]', (function(t) {
+    P.on(document, "click.bs.tab.data-api", '[data-bs-toggle="tab"], [data-bs-toggle="pill"], [data-bs-toggle="list"]', (function(t) {
         ["A", "AREA"].includes(this.tagName) && t.preventDefault(), h(this) || ti.getOrCreateInstance(this).show()
     })), _(ti);
     const ei = {
@@ -2931,7 +2930,7 @@
             this._element === i || this._element.contains(i) || this._maybeScheduleHide()
         }
         _setListeners() {
-            P.on(this._element, "click.dismiss.bs.toast", '[c-dismiss="toast"]', () => this.hide()), P.on(this._element, "mouseover.bs.toast", t => this._onInteraction(t, !0)), P.on(this._element, "mouseout.bs.toast", t => this._onInteraction(t, !1)), P.on(this._element, "focusin.bs.toast", t => this._onInteraction(t, !0)), P.on(this._element, "focusout.bs.toast", t => this._onInteraction(t, !1))
+            P.on(this._element, "click.dismiss.bs.toast", '[data-bs-dismiss="toast"]', () => this.hide()), P.on(this._element, "mouseover.bs.toast", t => this._onInteraction(t, !0)), P.on(this._element, "mouseout.bs.toast", t => this._onInteraction(t, !1)), P.on(this._element, "focusin.bs.toast", t => this._onInteraction(t, !0)), P.on(this._element, "focusout.bs.toast", t => this._onInteraction(t, !1))
         }
         _clearTimeout() {
             clearTimeout(this._timeout), this._timeout = null

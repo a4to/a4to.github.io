@@ -1,1 +1,0 @@
-05242d4c2d8d83acf92f5b829892d2d61ff410474c0eb1e72032fa20d3ed543ce95e83f577a50bcda491eeac4bd905c163dde5ccdc5addfa5ba4d995469b6127  ./SVGs/arrow-counterclockwise.svg

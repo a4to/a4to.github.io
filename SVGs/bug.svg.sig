@@ -1,1 +1,0 @@
-7eeb88e21d63b4d3e3dbe7d30b196cc8f7c0d5e9f29a90c9bada7070444101cc6ef8dad4b8ff00b8b0d6a34caf4e0a3c2820e81628a524fbda66edc0d73eca69  ./SVGs/bug.svg

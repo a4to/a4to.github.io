@@ -1,1 +1,0 @@
-7efb2ee67da17edfb3b709c7859292a1265e30e5ac6aef2fce4a8f2e8ed283d4da48c8598e61ae3fb0951220bfbef52acf443f1e846ca8874be5a19cdfe92109  ./SVGs/heptagon-fill.svg

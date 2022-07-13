@@ -1,1 +1,0 @@
-ff095ff57703614858de54cfcae2fe25e088ac7a7a9bfe84c6b5f159eeb51d0783da0d1e4766bcb67c1736326b2a05dbc7e22539e35cf4beda625cc0aa1fd818  ./SVGs/emoji-angry-fill.svg

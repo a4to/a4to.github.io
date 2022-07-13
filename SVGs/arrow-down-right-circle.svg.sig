@@ -1,1 +1,0 @@
-015ef67605a5fdebce96aac7582deaf5a17c9d8ac0aedbef64988fa1fc6b876d290f0ce2970624608e3f9a0090bff74c7bb81bc37453936625078761d3bc6fb9  ./SVGs/arrow-down-right-circle.svg

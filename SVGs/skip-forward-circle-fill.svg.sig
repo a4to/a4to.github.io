@@ -1,1 +1,0 @@
-2a480ac845a17857cbf9ab67f3b8e7c169c8886dcdd8934bcfa081d9306916cc0ceb1b8b733c1ce7187a182a2df469817aeaf00a143fadb14cf41863524db67a  ./SVGs/skip-forward-circle-fill.svg

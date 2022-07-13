@@ -1,1 +1,0 @@
-44abbc8e1bfd476f45587b429ee23a0e30073bbfb2057fc75fcf36775ae7af4ba2c59ea2a71ba4bca126b060eab4de46c8ecdaf9b653ba049369464c722cc6bf  ./SVGs/chat-quote.svg

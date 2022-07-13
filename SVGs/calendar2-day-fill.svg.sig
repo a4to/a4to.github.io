@@ -1,1 +1,0 @@
-d248bdce073a59f2a2f3817333f0ca14b10d35ec19e9ea8196052e2a094bbe1eb7dbddc9ea12ec7afd0cf93186b1a31c26aa293402d881322e27a6dcc62c0e29  ./SVGs/calendar2-day-fill.svg

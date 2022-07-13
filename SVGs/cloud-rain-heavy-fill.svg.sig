@@ -1,1 +1,0 @@
-b419ef59ddea7185ded9c89ffdd31d8865b6169e224fbfa64650ef26f9d39c78d5be7f6be970bc85b5031fd6d6ccebc7e663d5772a4a5b40b83d5d7d93c0e58e  ./SVGs/cloud-rain-heavy-fill.svg

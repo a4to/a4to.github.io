@@ -1,1 +1,0 @@
-eec84bd87b64412e28a696a767e1610341fcfebfce85ea15df6054effb877263ff98fde7aa64f1c85f3a45de645bdc9cafa48bf6f17275d028f423dedb1bad36  ./SVGs/brightness-high-fill.svg

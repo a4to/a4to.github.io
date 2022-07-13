@@ -1,1 +1,0 @@
-aafe6a4da005435903cbe03dfcc8e0fed0247c29fc44f2be097aa69ba275af933e0415cdfd80fa39ea967c4225aeb775e9ff7dead59a79e80635f7f27954e067  ./SVGs/box-arrow-down-right.svg

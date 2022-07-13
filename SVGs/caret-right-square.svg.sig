@@ -1,1 +1,0 @@
-c3bdaefd42fa7210a484eee76e6f8a6a7f113fcbc09e7ed2a86f96f33b710354ce4e37ca427630be725be9a29333d2d33efa49af42692689720bb4a5dead91b7  ./SVGs/caret-right-square.svg

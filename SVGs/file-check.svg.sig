@@ -1,1 +1,0 @@
-2caec30b347a94b51c6f7d9df00601edcc903a86a1cdcdaf454ec4a2ebfc7fc8dbe72363c3a641b07f590df11b3ff4c11b6ee8a23a79bdf630b0e7e20d2c9444  ./SVGs/file-check.svg

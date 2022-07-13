@@ -1,1 +1,0 @@
-96bf37bc323b7a4c9796cc5be50c59f84bcaa8566580bd70e450cdd5d2ecb6abb7cf9a4818fcaed5496cacb9f7a97c32a18add45f637beced7bcdb535ab42dca  ./SVGs/journals.svg

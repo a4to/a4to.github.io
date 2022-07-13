@@ -1,1 +1,0 @@
-aaec4cd237bff9743c3cfeefeb6102a54e33511b5f26fe7ea16eb3b686fa08059f1ee5ece7c5b5153eb98df6ba8815c642d9b7ffc63e113be311c688d577fbda  ./SVGs/window-fullscreen.svg

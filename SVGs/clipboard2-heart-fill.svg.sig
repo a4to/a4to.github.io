@@ -1,1 +1,0 @@
-3cc81e63014d75c2ed7dc13f735852b35aaea743ddfb88b8b0cc9c7df22c8b838942de7de75894a1aa2ac08bb0e75204cc82fbafd85181f70f167808e4a5f40d  ./SVGs/clipboard2-heart-fill.svg

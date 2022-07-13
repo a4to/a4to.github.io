@@ -1,1 +1,0 @@
-13f10d9e2d6afaafd3a5525e210efcebe85210cf14c3819cae438d6ffe64119845e13cb1ba90cbe245ede7477d1e074ab6763d02fbc6a912b32c04ca5a134c95  ./SVGs/arrow-up-right-square-fill.svg

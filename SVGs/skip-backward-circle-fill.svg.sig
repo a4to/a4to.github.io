@@ -1,1 +1,0 @@
-8dfd04b81ca810860530eb352b9587e3013d83aaef149a6caf6a4eed8f63cc40e3a1baf4a0292a8925fd47afe0cb74fb7d5d6cadd5f6129a7e2b6efd203e16bf  ./SVGs/skip-backward-circle-fill.svg

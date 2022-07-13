@@ -1,1 +1,0 @@
-ff7d7de50de66be394227fab0c84b36dc7f98919dc70c939dca1e49672b0cd1aae1ed7948001ce5d4e22dd216cb198b58f1feaaede542dfe492cab5cf44a2b96  ./SVGs/reddit.svg

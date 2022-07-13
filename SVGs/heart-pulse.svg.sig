@@ -1,1 +1,0 @@
-0c1fd0af2a38f8b7308e2cf7b79ef7a2d0bdb65c1e6c2f12bfcfdc42f711a31fcfe1b86b64261cee1b551c76a19ef8a58efc163d3a0ebb43a7951ca17261ba8a  ./SVGs/heart-pulse.svg

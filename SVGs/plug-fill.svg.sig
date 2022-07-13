@@ -1,1 +1,0 @@
-d1ae6afac8e10ba5daf6b29dea0ca8c43d88ee01935000ad110cba7585bc16c14adce13aabbbb67ffbd3dfc72fe319d6fa354aee3ab9476e18fd9f50ff6fe83b  ./SVGs/plug-fill.svg

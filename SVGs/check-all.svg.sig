@@ -1,1 +1,0 @@
-d985cb9b6fcae5ee6afa9a2ea72d10acde94c0710af3646a1e433c742c15fd4727315b1bac1775932385ef8ba0cb572ea475c7fd15aac513b7ea2a7ade45ce5f  ./SVGs/check-all.svg

@@ -1,1 +1,0 @@
-2fc216ccdb471ac0cef214e4c883ed8297fb4b0d1fff877990b89c75d636a6f9e8198069a9b48f56ab78c1dbadaf3260d747e992c3ca369f53cecd8ec0bde8d2  ./SVGs/cloud-arrow-up.svg

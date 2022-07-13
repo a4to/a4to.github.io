@@ -1,1 +1,0 @@
-fac26f4cfd5728c0dfd4705d8e4c7a5f2288a9688be78c85a54ed2ece750081bb24f3c9aa3f23b1f2273c2deea2cd0266ce0f34715f8ae266dbdbd1bafda8d16  ./SVGs/display-fill.svg

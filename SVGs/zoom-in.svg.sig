@@ -1,1 +1,0 @@
-50271a2be07f61cef0efdc6b6e0bb6774f4b7d9810a704a717bc9e230d7fedd79cd991db797c0aa77a2b79cba2be8f098aed6d8e4ad6f08f254370039a8ffbca  ./SVGs/zoom-in.svg

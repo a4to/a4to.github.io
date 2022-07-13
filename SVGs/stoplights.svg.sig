@@ -1,1 +1,0 @@
-cc5003ab1a43a9a6ac8c7b51e36c43443ec489f0bcc016f8f3d929dfee7c7bca2a601a60f75d9de3d0933eff2e2d55625e8356b3e4aedb81d3dde68fdc92f505  ./SVGs/stoplights.svg

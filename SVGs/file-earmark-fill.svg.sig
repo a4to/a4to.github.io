@@ -1,1 +1,0 @@
-44f350ce4d90f0145f4f6ee7c2d6f391dbc3d7a38925dee7e234d70200890dcce5a97ed67de09b25ecfbc1c5f419992ec503dadc7f49bacbb27a727cedcbd024  ./SVGs/file-earmark-fill.svg

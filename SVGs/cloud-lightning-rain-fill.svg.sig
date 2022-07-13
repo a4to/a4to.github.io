@@ -1,1 +1,0 @@
-56da6051802cc6710494fdbb4181dfd3c4124c99fc2aef98bf6f55ec91a6f4df0a95b9d67bc296aab386836deea673192a862cbd49a477c91d68be7f41264d6d  ./SVGs/cloud-lightning-rain-fill.svg

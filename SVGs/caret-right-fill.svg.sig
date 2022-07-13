@@ -1,1 +1,0 @@
-5fa4ee2bc21e2dceeba7576bdc3eb5e2214014a849c8dc89bad675ac79a4b158fb7ab4baf024e9f1a4e2ba9031ca762b34c2cf8feb7656ece2b8a15d03ccddb9  ./SVGs/caret-right-fill.svg

@@ -1,1 +1,0 @@
-c6c506cfab7a893314f2e34d2d1a3da3c3e423eecf6d73a946b2fef169093e8ad5c446196d248c4be0220975d1ccee8ce5bdcd1c9ddb5164ef62111ff2cc47c2  ./SVGs/house-heart.svg

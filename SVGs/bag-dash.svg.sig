@@ -1,1 +1,0 @@
-66b11eea0e0fe30ad0901e677d433b6f499c1bb449ecf85be6c94723ad7de6eb661b8aa0ffe767f264975ed0b50fd9852afa958a5339cd3fb1af6eabfcd4dd25  ./SVGs/bag-dash.svg

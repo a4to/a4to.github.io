@@ -1,1 +1,0 @@
-d7be58cf5d89dbd8a669dad300c976568d3ef09652f9eb1da47b37d1053ab9b926e0a4cef9dcdb2a3974dc5f2c4ee500851d07c0dbb3370e5ef372e6548d1b2e  ./SVGs/hand-index-thumb-fill.svg

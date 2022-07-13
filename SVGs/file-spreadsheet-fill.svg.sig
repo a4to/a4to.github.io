@@ -1,1 +1,0 @@
-73f58081e41b85dba6a5052606eaa13cf71fcbb0d51c1bd09f54ee1ca8b461510ecfe3deb6ccbf7f4b33aa44653c6a824ab91ed3a83f4497d9d9bfa73919608a  ./SVGs/file-spreadsheet-fill.svg

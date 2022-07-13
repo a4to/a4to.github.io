@@ -1,1 +1,0 @@
-d64ae4aed62db0fd180804da42d59e6dc0429a5db82c270f56e379afe8c3b64c04762458900dd6d6520da4ceafa62614fa94be9ac1f49c9d1dba01f4c75cb6a8  ./SVGs/archive-fill.svg

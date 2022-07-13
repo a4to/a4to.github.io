@@ -1,1 +1,0 @@
-5541909cfadb1ba4aa9d0951fdf5aab129c1cbc633bb26c3cca791ca9343f6bec269e3e6dcc2fd119a7d28e9d78dbce336240b7f517a1d530ce18af8cd9b6877  ./SVGs/projector.svg

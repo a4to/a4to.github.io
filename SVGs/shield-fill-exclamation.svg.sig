@@ -1,1 +1,0 @@
-0caf0b8406d374a8b4a0b03af5b7f7bddaccb22d9c4f89f19957f96e5c1a5cca4bcb2f4d132117f36c125df1b3ead39b1323317de14f11738a02063e55b83afc  ./SVGs/shield-fill-exclamation.svg

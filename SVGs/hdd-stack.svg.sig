@@ -1,1 +1,0 @@
-2f6401ec26b9e896e86fa28a74e3efabfe822f7697c48144391556eec6fcbbfd9c827a0b88dae4785c3b9c0f91aeacb8ea30e60d653f1e4f8a8c566ff23fb9cc  ./SVGs/hdd-stack.svg

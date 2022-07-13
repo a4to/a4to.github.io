@@ -1,1 +1,0 @@
-88af1fbdfeab1afa5b168e6729fed3908d1e278efef406f1fbef090e318b34787a84ef6a7575f10ae0d84cab4fed7ee7c085cd919381daef77ec81d68dd87377  ./SVGs/calendar2-month-fill.svg
