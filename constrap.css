@@ -2308,12 +2308,6 @@ textarea.frm-ct-lg{
 .c-frm{
 	position:relative
 }
-.c-frm>.frm-ct,.c-frm>.form-select{
-  height:auto;
-}
-.c-frm>.frm-ct,.c-frm>.form-select{
-  height:auto;
-}
 .c-frm>label{
 	position:absolute;
 	top:0;
