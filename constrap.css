@@ -1825,7 +1825,7 @@ progress{
 	transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
 
-.frm-c{
+.frm-cen{
 	display:block;
   padding:.375rem .75rem;
   font-size:1rem;
