@@ -197,6 +197,48 @@ b,strong{
 	padding:.2em;
 	background-color:#fcf8e3
 }
+
+
+.c-btn{
+  background-color: var(--blue);
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+  color: var(--cloud);
+}
+
+.c-btn:hover {
+  background-color: var(--cloud);
+  color: var(--blue);
+  box-shadow: var(--boxshad);
+  transform: scale(1.06);
+  transition: all 0.06s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 sub,sup{
 	position:relative;
 	font-size:.75em;
@@ -1752,6 +1794,98 @@ progress{
 	border-radius:.25rem;
 	transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
+
+.frm{
+	display:block;
+	width:95%;
+	padding:.375rem .75rem;
+	font-size:1rem;
+	font-weight:400;
+	line-height:1.5;
+	color:#212529;
+	background-color:#fff;
+	background-clip:padding-box;
+	border:1px solid #ced4da;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	appearance:none;
+	border-radius:.25rem;
+	transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.frm-c{
+	display:block;
+  padding:.375rem .75rem;
+  font-size:1rem;
+  position: absolute;
+  top: 25vh;
+  left: 25vw;
+  width: 50vw;
+  max-height: 50vh;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  border-radius:.25rem;
+  transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.frm-c-lo{
+  display:block;
+  padding:.375rem .75rem;
+  font-size:1rem;
+  position: absolute;
+  top: 15vh;
+  left: 33.3vw;
+  width: 33.3vw;
+  max-height: 66.6vh;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  border-radius:.25rem;
+  transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.frm-c-lw{
+  display:block;
+  padding:.375rem .75rem;
+  font-size:1rem;
+  position: absolute;
+  top: 15vh;
+  left: 15vw;
+  width: 66.6vw;
+  max-height: 66.6vh;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  border-radius:.25rem;
+  transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+.frm-c-l{
+  display:block;
+  padding:.375rem .75rem;
+  font-size:1rem;
+  position: absolute;
+  top: 15vh;
+  left: 25vw;
+  width: 50vw;
+  max-height: 66.6vh;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  border-radius:.25rem;
+  transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+
+
 @media (prefers-reduced-motion:reduce){
 	.form-control{
 	transition:none
