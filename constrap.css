@@ -2305,16 +2305,16 @@ textarea.frm-ct-lg{
 .form-range:disabled::-moz-range-thumb{
 	background-color:#adb5bd
 }
-.frm-fl{
+.c-frm{
 	position:relative
 }
-.frm-fl>.frm-ct,.frm-fl>.form-select{
+.c-frm>.frm-ct,.c-frm>.form-select{
   height:auto;
 }
-.frm-fl>.frm-ct,.frm-fl>.form-select{
+.c-frm>.frm-ct,.c-frm>.form-select{
   height:auto;
 }
-.frm-fl>label{
+.c-frm>label{
 	position:absolute;
 	top:0;
 	left:0;
@@ -2326,45 +2326,45 @@ textarea.frm-ct-lg{
 	transition:opacity .1s ease-in-out,transform .1s ease-in-out
 }
 @media (prefers-reduced-motion:reduce){
-	.frm-fl>label{
+	.c-frm>label{
 	transition:none
 }
 
 }
-.frm-fl>.frm-ct{
+.c-frm>.frm-ct{
 	padding:1rem .75rem
 }
-.frm-fl>.frm-ct::-moz-placeholder{
+.c-frm>.frm-ct::-moz-placeholder{
 	color:transparent
 }
-.frm-fl>.frm-ct::placeholder{
+.c-frm>.frm-ct::placeholder{
 	color:transparent
 }
-.frm-fl>.frm-ct:not(:-moz-placeholder-shown){
+.c-frm>.frm-ct:not(:-moz-placeholder-shown){
 	padding-top:1.625rem;
 	padding-bottom:.625rem
 }
-.frm-fl>.frm-ct:focus,.frm-fl>.frm-ct:not(:placeholder-shown){
+.c-frm>.frm-ct:focus,.c-frm>.frm-ct:not(:placeholder-shown){
 	padding-top:1.625rem;
 	padding-bottom:.625rem
 }
-.frm-fl>.frm-ct:-webkit-autofill{
+.c-frm>.frm-ct:-webkit-autofill{
 	padding-top:1.625rem;
 	padding-bottom:.625rem
 }
-.frm-fl>.form-select{
+.c-frm>.form-select{
 	padding-top:1.625rem;
 	padding-bottom:.625rem
 }
-.frm-fl>.frm-ct:not(:-moz-placeholder-shown)~label{
+.c-frm>.frm-ct:not(:-moz-placeholder-shown)~label{
 	opacity:.65;
 	transform:scale(.85) translateY(-.5rem) translateX(.15rem)
 }
-.frm-fl>.frm-ct:focus~label,.frm-fl>.frm-ct:not(:placeholder-shown)~label,.frm-fl>.form-select~label{
+.c-frm>.frm-ct:focus~label,.c-frm>.frm-ct:not(:placeholder-shown)~label,.c-frm>.form-select~label{
 	opacity:.65;
 	transform:scale(.85) translateY(-.5rem) translateX(.15rem)
 }
-.frm-fl>.frm-ct:-webkit-autofill~label{
+.c-frm>.frm-ct:-webkit-autofill~label{
 	opacity:.65;
 	transform:scale(.85) translateY(-.5rem) translateX(.15rem)
 }
