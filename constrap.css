@@ -214,6 +214,7 @@ b,strong{
   align-items: center;
   transition: all 0.3s ease-in-out;
   color: var(--cloud);
+  margin: 5px;
 }
 
 .c-btn:hover {
@@ -222,6 +223,12 @@ b,strong{
   box-shadow: var(--boxshad);
   transform: scale(1.06);
   transition: all 0.06s ease-in-out;
+}
+
+.flx{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
@@ -1795,10 +1802,15 @@ progress{
 	transition:border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
 
+.bx{
+  border-radius:  10px;
+  border: 1px solid #ccc;
+}
+
 .frm{
 	display:block;
-	width:95%;
 	padding:.375rem .75rem;
+  width: 10%;
 	font-size:1rem;
 	font-weight:400;
 	line-height:1.5;
