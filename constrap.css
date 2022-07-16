@@ -597,7 +597,7 @@ progress{
 }
 @media (min-width:1400px){
   .cont,.cont-lg,.cont-md,.cont-sm,.cont-xl,.cont-xxl{
-  max-width:calc(100% - 4vw);
+  max-width:calc(100% - 8vw);
 }
 
 }
@@ -1786,7 +1786,7 @@ progress{
 }
 .frm-ct{
 	display:block;
-	width:95%;
+	width:100%;
 	padding:.375rem .75rem;
 	font-size:1rem;
 	font-weight:400;
